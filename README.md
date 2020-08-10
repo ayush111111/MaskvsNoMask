@@ -4,4 +4,4 @@
 
 Created to explore https://teachablemachine.withgoogle.com/train 
 
-The "image" section of the website is based upon MobileNet architecture
+The "image" section of the website is based upon MobileNet architecture, and uses transfer learning to differentiate between classes
